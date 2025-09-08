@@ -7,3 +7,5 @@ Streamlit Tips Dataset Explorer – Seaborn Visualizations
 Tips Data Visualization Dashboard (Streamlit + Seaborn)
 
 Seaborn Plot Explorer – Interactive Streamlit App
+
+Access my project link -http://localhost:8501/
